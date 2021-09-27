@@ -7,7 +7,7 @@ What I have used in this implementation is CNN + Bi LSTM + CTC.
 Convolution neural network was used to extract a feature map from the images. Then this feature map 
 was fed into LSTM and then using CTC function actual text was predicted.  
 
-![Alt text](predicted_images/handwrittentext1.jpg?raw=true "Optional Title")
+![Alt text](predicted_images/handwritten_text1.jpg?raw=true "Optional Title")
 
 ## CTC 
 Imagine a dataset of text images and specifying each time-step of the image’s corresponding character. There are a couple of issues with this approach:
