@@ -1,6 +1,6 @@
 # Handwritten_text_recognition
 
-Objective was to predict the handwritten text in the images provided by the dataset. 
+Objective was to predict the handwritten text in the images provided in the dataset. 
 Various deep learning and machine learning algorithm and new researches are done in this field.
 
 What I have used in this implementation is CNN + Bi LSTM + CTC.
